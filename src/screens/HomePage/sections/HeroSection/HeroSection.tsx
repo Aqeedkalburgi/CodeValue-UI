@@ -56,10 +56,9 @@ export const HeroSection = (): JSX.Element => {
             </p>
 
             <p className="text-[#132930] text-[15px] leading-[30px] [font-family:'Poppins',Helvetica] font-light tracking-[0] max-w-[614px]">
-              Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting
-              Industry. Lorem Ipsum Has Been The Industry&#39;s Standard Dummy
-              Text Ever Since The 1500s, When An Unknown Printer Took A Galley
-              Of Type And Scrambled
+              Build your dream tech team with world-class engineers handpicked through a rigorous selection process. 
+              Our developers combine deep technical expertise with real-world problem-solving skills,
+              ensuring seamless project delivery and long-term success.
             </p>
 
             <div className="flex gap-6 mt-6">
@@ -98,7 +97,8 @@ export const HeroSection = (): JSX.Element => {
                     Create Your Team
                   </h3>
                   <p className="text-[#223940] text-sm text-center leading-[normal] [font-family:'Poppins',Helvetica] font-light tracking-[0]">
-                    Lorem Ipsum Is Simply Dummy Text Of The Printing
+                    Craft your perfect development team in just a few steps. 
+                    Tell us your requirements, and we’ll match you with the right developers within 48 hours.
                   </p>
                 </div>
               </div>
