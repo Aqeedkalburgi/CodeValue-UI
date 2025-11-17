@@ -41,10 +41,7 @@ export const TopCompaniesSection = (): JSX.Element => {
             </h2>
 
             <p className="text-[#132930] text-[15px] leading-7 [font-family:'Poppins',Helvetica] font-light">
-              Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting
-              Industry. Lorem Ipsum Has Been The Industry&#39;s Standard Dummy
-              Text Ever Since The 1500s, When An Unknown Printer Took A Galley
-              Of Type And Scrambled It To Make A Type Specimen Book.
+              Companies worldwide rely on us for dependable engineering support, predictable delivery, and a smooth outsourcing experience.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-3">
