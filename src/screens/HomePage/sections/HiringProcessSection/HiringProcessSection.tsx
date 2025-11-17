@@ -5,7 +5,7 @@ const processSteps = [
     number: "1",
     title: "INQUIRY",
     description:
-      "Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry.",
+      "Share your requirements and project details with our team.",
     icon: "/group-1000004240-1.svg",
     iconClass: "w-[195px] h-[195px]",
   },
@@ -13,7 +13,7 @@ const processSteps = [
     number: "2",
     title: "SELECT DEVELOPERS",
     description:
-      "Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry.",
+      "We shortlist the best-fit engineers based on your needs.",
     icon: "/group-1000004240.svg",
     iconClass: "w-[195px] h-[195px]",
   },
@@ -21,7 +21,7 @@ const processSteps = [
     number: "3",
     title: "TEAM INTEGRATION",
     description:
-      "Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry.",
+      "Your chosen developers integrate into your workflow and processes.",
     icon: "/8666755-users-group-icon-1.svg",
     iconClass: "w-[72px] h-[72px]",
     hasCircleBorder: true,
@@ -30,7 +30,7 @@ const processSteps = [
     number: "4",
     title: "TEAM SCALING",
     description:
-      "Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry.",
+      "Easily add more developers as your project grows.",
     icon: "/7968885-scale-scaling-adobe-illustrator-tool-icon-1.svg",
     iconClass: "w-[71px] h-[58px]",
     hasCircleBorder: true,
