@@ -46,9 +46,8 @@ export const AboutUsSection = (): JSX.Element => {
             Why Hire Developers From Our Name
           </h2>
           <p className="max-w-[740px] mx-auto text-[#132930] text-[15px] leading-[33px] [font-family:'Poppins',Helvetica] font-light tracking-[0]">
-            Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting
-            Industry. Lorem Ipsum Has Been The Industry&#39;s Standard Dummy
-            Text Ever Since
+            Hiring with us means partnering with a team that values transparency, quality, and innovation. 
+            Our developers are trained to deliver solutions that meet global standards and business goals.
           </p>
         </div>
 
