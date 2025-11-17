@@ -66,10 +66,9 @@ export const ProcessStepsSection = (): JSX.Element => {
               </h3>
 
               <p className="text-[#132930] text-[15px] leading-7 [font-family:'Poppins',Helvetica] font-light tracking-[0] mb-[57px]">
-                Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting
-                Industry. Lorem Ipsum Has Been The Industry&#39;s Standard Dummy
-                Text Ever Since The 1500s, When An Unknown Printer Took A Galley
-                Of Type And Scrambled It To Make A Type Specimen Book.
+                Hiring dedicated developers gives you quick access to skilled professionals who can start working on your project immediately. 
+                It saves time, reduces costs, and ensures faster delivery with better quality. 
+                You get flexibility to scale your team easily, avoid recruitment hassles, and benefit from experts who follow modern technologies and clean coding practices.
               </p>
 
               <div className="grid grid-cols-2 gap-x-[115px] gap-y-[14px] mb-[51px]">
