@@ -94,7 +94,7 @@ export const FooterSection = (): JSX.Element => {
                     src="/vuesax-bold-sms.svg"
                   />
                   <div className="[font-family:'Poppins',Helvetica] font-light text-[#ffffff] text-base tracking-[0.32px] leading-[30px] whitespace-nowrap">
-                    ezyoga@gmail.com
+                    codevalue@gmail.com
                   </div>
                 </div>
               </div>
@@ -105,7 +105,7 @@ export const FooterSection = (): JSX.Element => {
 
       <div className="w-full h-[45px] bg-[#2fc980] flex items-center justify-center">
         <div className="[font-family:'Poppins',Helvetica] font-medium text-[#ffffff] text-base tracking-[0.16px] leading-[25px] whitespace-nowrap">
-          logoname. 2023. All rights reserved
+          CodeValue. 2025. All rights reserved
         </div>
       </div>
     </footer>
